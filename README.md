@@ -1,12 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
-
-I'm a passionate software developer/student based in [Your City]. I enjoy building robust applications and learning about new technologies.
-
-- 🔭 I’m currently working on [Your Cool Project].
-- 🌱 I’m currently learning [A Technology You're Learning].
-- 💬 Ask me about: **[Your Top 3-4 Skills]**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 My Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+### Hi there, I'm Gaurav! 👋
 
 ---
 
